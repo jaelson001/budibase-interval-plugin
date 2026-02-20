@@ -1,11 +1,13 @@
 {
   "type": "component",
-  "metadata": {},
+  "metadata": {
+    "svelteMajor": 5
+  },
   "schema": {
     "name": "Interval",
     "friendlyName": "Interval",
     "description": "Set time interval to refresh data provider automatically",
-    "icon": "Stopwatch",
+    "icon": "Clock",
     "settings": [
       {
         "type": "number",
