@@ -10,7 +10,7 @@
     "icon": "Clock",
     "settings": [
       {
-        "type": "number",
+        "type": "text",
         "key": "interval",
         "label": "Interval (in seconds)",
         "min": 1,
